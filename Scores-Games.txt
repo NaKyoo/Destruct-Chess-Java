@@ -1,4 +1,4 @@
-caca score: 12
-pipi score: 3
-capi score: 5
-pica score: 8
+P1 score: 12
+P2 score: 3
+P3 score: 5
+P4 score: 8
